@@ -1,13 +1,11 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋 
+### Hi there, I'm Shohjahon. 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father and Engineer.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🔭 I'm fond of Machine Learning and Deep Learning
+- 🌱 I’m currently learning [MLOps][mlops]
+- 🥅 2020 Goals: Contribute more to Open Source projects and write more blog posts
 
 ### Connect with me:
 
@@ -92,6 +90,7 @@
 [website]: https://sh-nishonov.github.io/shnishonov/
 [telegram]: https://t.me/sh_nishonov
 [linkedin]: https://linkedin.com/in/shnishonov/
+[mlops]: https://madewithml.com/#mlops
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
