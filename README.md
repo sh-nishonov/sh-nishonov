@@ -5,7 +5,7 @@
 
 - 🔭 I'm fond of Machine Learning and Deep Learning
 - 🌱 I’m currently learning [MLOps][mlops]
-- 🥅 2020 Goals: Contribute more to Open Source projects and write more blog posts
+- 🥅 2022 Goals: Contribute more to Open Source projects and write more blog posts
 
 ### Connect with me:
 
@@ -23,7 +23,7 @@
 <img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />
 <img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 <img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
-<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.netkeras_Matplotlib-logo.svg" />
+<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
 <img align="left" alt="seaborn" width="26px" src="https://github.com/mwaskom/seaborn/blob/069d53a3dd29a965987705c823883a93700bbe5e/doc/_static/logo-mark-lightbg.svg" />
 <img align="left" alt="plotly" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/plotly.svg"/>
 
