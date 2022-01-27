@@ -23,9 +23,9 @@
 <img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 <img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
 <img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
-<img align="left" alt="matplotlib" width="26px" src="https://matplotlib.org/_static/images/logo2.svg" />
-<img align="left" alt="seaborn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/seaborn.svg" />
-<img align="left" alt="plotly" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/plotly.svg" />
+<img align="left" alt="matplotlib" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" />
+<img align="left" alt="seaborn" width="26px" src="https://github.com/mwaskom/seaborn/blob/069d53a3dd29a965987705c823883a93700bbe5e/doc/_static/logo-wide-lightbg.svg" />
+<img align="left" alt="plotly" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
