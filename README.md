@@ -51,12 +51,7 @@ BLOG-POST-LIST:END
 -->
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+[![Shohjahon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh-nishonov&show_icons=true)](https://github.com/sh-nishonov/github-readme-stats)
 
 [website]: https://sh-nishonov.github.io/shnishonov/
 [telegram]: https://t.me/sh_nishonov
