@@ -17,13 +17,13 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="SQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sql.svg" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="scikit-learn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/scikitlearn.svg" />
 <img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/numpy.svg" />
 <img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 <img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tensorflow.svg" />
 <img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" />
-<img align="left" alt="matplotlib" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/matplotlib.svg" />
+<img align="left" alt="matplotlib" width="26px" src="https://matplotlib.org/_static/images/logo2.svg" />
 <img align="left" alt="seaborn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/seaborn.svg" />
 <img align="left" alt="plotly" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/plotly.svg" />
 
