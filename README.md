@@ -5,7 +5,7 @@
 
 - 🔭 I'm fond of Machine Learning and Deep Learning
 - 🌱 I’m currently learning [MLOps][mlops]
-- 🥅 2022 Goals: Contribute more to Open Source projects and write more blog posts
+- 🥅 2023 Goals: Contribute more to Open Source projects and write more blog posts
 
 ### Connect with me:
 
